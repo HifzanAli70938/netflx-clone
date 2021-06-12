@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/netflx-clone/static/css/main.78469f39.chunk.css",
+    "main.js": "/netflx-clone/static/js/main.ad5d46f7.chunk.js",
+    "main.js.map": "/netflx-clone/static/js/main.ad5d46f7.chunk.js.map",
+    "runtime-main.js": "/netflx-clone/static/js/runtime-main.42cf1c8f.js",
+    "runtime-main.js.map": "/netflx-clone/static/js/runtime-main.42cf1c8f.js.map",
+    "static/js/2.641e9223.chunk.js": "/netflx-clone/static/js/2.641e9223.chunk.js",
+    "static/js/2.641e9223.chunk.js.map": "/netflx-clone/static/js/2.641e9223.chunk.js.map",
+    "index.html": "/netflx-clone/index.html",
+    "static/css/main.78469f39.chunk.css.map": "/netflx-clone/static/css/main.78469f39.chunk.css.map",
+    "static/js/2.641e9223.chunk.js.LICENSE.txt": "/netflx-clone/static/js/2.641e9223.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42cf1c8f.js",
+    "static/js/2.641e9223.chunk.js",
+    "static/css/main.78469f39.chunk.css",
+    "static/js/main.ad5d46f7.chunk.js"
+  ]
+}
